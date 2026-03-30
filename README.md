@@ -1,0 +1,2 @@
+This repository contains a movie discovery and analytics backend built with Python and MySQL. The system is designed around a structured relational schema, bulk ingestion of movie-related datasets, and a set of search and analysis queries that allow users to explore movies, people, genres, keywords, and ratings. The project focuses on backend data design and query capabilities, including full-text search, aggregation-heavy SQL, and efficient schema organization.
+
